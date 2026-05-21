@@ -79,6 +79,14 @@ The implementation includes several lightweight optimizations for smoother real-
 
 ---
 
+# 🌐 Live Demo
+
+```txt
+
+```
+
+---
+
 # 📸 Preview
 
 ![Preview 1](Resources/img0.png)
@@ -145,13 +153,3 @@ Inspired by:
 # 👨‍💻 Author
 
 ### Herry Patel
-
----
-
-# 🔒 License
-
-This project is closed-source and proprietary.
-
-Unauthorized copying, modification, distribution, or reuse of the source code is prohibited.
-
-All rights reserved © Herry Patel.
