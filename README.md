@@ -82,7 +82,7 @@ The implementation includes several lightweight optimizations for smoother real-
 # 🌐 Live Demo
 
 ```txt
-
+https://boids-flocking-simulation-e331hppgz-herry-projects.vercel.app/
 ```
 
 ---
